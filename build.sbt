@@ -14,5 +14,6 @@ libraryDependencies ++= Seq(
   cache,
   javaWs,
   "com.google.inject" % "guice" % "3.0",
+  "net.sourceforge.htmlunit" % "htmlunit" % "2.15",
   "akkaguice" %% "akkaguice" % "0.8.2-SNAPSHOT"
 )
